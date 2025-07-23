@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heder {
+    
+    text-align: center;
+    font-family: "Marvel", sans-serif;
+    font-weight: 700;
+    font-style:normal ;
+    /* background-color: black; */
+    color: black;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* gap: 15px;  */
+    /* height: 100%; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center;  */
+    /* width: 505px; */
+
+}
+
+.navbar {
+   /* background: linear-gradient(220deg, #ff007f, #005f73); */
+    background-color: rgba(0, 0, 0, 0.4); /* Light translucent */
+  backdrop-filter: blur(10px);               /* Frosted blur */
+  -webkit-backdrop-filter: blur(10px);       /* Safari support */
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  /* border-radius: 12px; */
+  /* color: red; */
+ 
+
+   /* background: linear-gradient(45deg, #0f0c29, #302b63, #00c9a7); */
+
+   
+
+
+    
+}
+
+.nav-link {
+    /* font-family: "Marvel", sans-serif; */
+    font-family: "Truculenta", sans-serif;
+
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.logo {
+    color: #ff1a1a;
+    font-family: "Marvel", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 34px;
+    /* text-transform: uppercase; */
+    text-shadow: 2px 2px 4px black;
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+.main {
+    background: url("second.png");
+    width: 100%;
+    object-fit: cover;
+    height: 613px;
+    /* margin-bottom: 20px !important; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img img {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.main h1,
+p {
+    /* background: linear-gradient(#eeff00, pink);
+    -webkit-background-clip: text;
+    color: transparent; */
+    /* border:  2px solid black; */
+    margin-left: 30px;
+    /* position: relative; */
+    /* top: -549px; */
+    width: 443px;
+    z-index: 1;
+
+}
+
+/* .text-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    /* Safari support 
+    /* padding: 20px; 
+    border-radius: 10px;
+}
+
+.text-overlay {
+    display: flex;
+    flex-direction: column;
+    /* gap: 15px; 
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center; 
+    width: 505px;
+} */
+
+#toggleBtn:hover {
+    background-color: #ff1a1a;
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+}
+
+
+.main P {
+    color: #f0f0f0;
+    font-family: "Truculenta", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-shadow: black;
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+
+.main h1 {
+    color: crimson;
+    font-family: "Truculenta", sans-serif;
+    font-size: 34px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px black;
+
+
+
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    top: 109px;
+    height: 724Xpx;
+    width: 70%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+    /* Black shadow fade from left */
+    z-index: 1;
+}
+
+
+.btn {
+    /* position: relative; */
+    /* top: -535px; */
+    z-index: 1;
+    margin-left: 30px;
+    color: #fff;
+    background-color: #e60000;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-family: "Truculenta", sans-serif;
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 2px 2px 10px rgb(0, 0, 0, 0, 0.5);
+    transition: all 0.3 ease;
+}
