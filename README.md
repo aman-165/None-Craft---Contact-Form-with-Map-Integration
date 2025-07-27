@@ -73,12 +73,12 @@ None-Craft---Contact-Form-with-Map-Integration/<br>
 
  ## 🌐 Live Demo
 Coming Soon...
-You can deploy it on GitHub Pages, Netlify, or Vercel easily.
+
 
 ---
 
 ## 🚧 Future Improvements
--Add real-time form validation using JavaScript
+- Add real-time form validation using JavaScript
 
 - Connect form to backend (PHP or Node.js)
 
