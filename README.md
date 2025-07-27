@@ -6,7 +6,8 @@ This project is a **modern contact section** for business websites. It features 
 
 ## 🖼️ Project Preview
 
-<img width="1920" height="1191" alt="screencapture-file-D-Felix-It-system-AP107-FOUR-index-html-2025-07-07-16_43_47" src="https://github.com/user-attachments/assets/ea0d3fbe-aa64-47b7-9147-cf12d1d01a36" />
+<img width="1920" height="1191" alt="screencapture-file-D-Felix-It-system-AP107-FOUR-index-html-2025-07-27-16_34_13" src="https://github.com/user-attachments/assets/83dff1ed-650e-41a2-9895-5a6238839807" />
+
 
 
 ---
