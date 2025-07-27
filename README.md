@@ -90,9 +90,9 @@ Coming Soon...
 
   ---
 
-## 👤 Author
- Aman Patel
- GitHub: @aman-165
+## 👨‍💻 Author
+
+Developed by [Aman-165](https://github.com/aman-165)
 
  ---
 
@@ -108,11 +108,5 @@ If you want to contribute, fork the repo and submit a PR.
 ---
 
 
-Let me know if:
-- You want the **README uploaded to GitHub**.
-- You need a **backend for the contact form**.
-- You want to **connect it to EmailJS or Formspree** for working form submission.
-
-✅ Ready for Git instructions to push this project?
 
 
