@@ -61,10 +61,10 @@ None-Craft---Contact-Form-with-Map-Integration/<br>
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/aman-165/None-Craft---Contact-Form-with-Map-Integration.git
-2. **Navigate to the Project
+2. **Navigate to the Project**
    ```bash
    cd None-Craft---Contact-Form-with-Map-Integration
-3. **Open in Browser
+3. **Open in Browser**
    Double-click index.html or open with Live Server.
 
    **✅ No build tools or dependencies required.
